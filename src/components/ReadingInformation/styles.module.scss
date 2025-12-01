@@ -1,0 +1,45 @@
+.mainContainer {
+  border: 2px solid var(--green-300);
+  border-radius: 10px;
+  width: 98%;
+  margin: .5rem;
+  padding: .5rem 1rem;
+  font-size: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  background-color: white;
+
+  span {
+    font-weight: 600;
+    color: var(--gray-800);
+    text-decoration: underline;
+  }
+
+  input {
+    padding: 0.3rem;
+    border-radius: 5px;
+    border: 2px solid var(--green-300);
+    font-size: 1rem;
+    color: var(--gray-800);
+  }
+}
+
+.customerContainer, .hydrometerContainer, .readingContainer {
+  display: flex;
+  align-items: center;
+  gap: 5rem;
+
+  div {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    width: 30%;
+  }
+}
+
+.hydrometerContainer, .readingContainer {
+  span {
+    text-decoration: none;
+  }
+}

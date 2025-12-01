@@ -1,0 +1,115 @@
+                        THE CRAPL v0 BETA 1
+
+
+0. Informações sobre o CRAPL
+
+Se você tiver dúvidas ou preocupações sobre o CRAPL ou precisar de mais
+informações sobre esta licença, entre em contato:
+
+   Matthew Might
+   http://matt.might.net/
+
+
+I. Preâmbulo
+
+A ciência prospera na abertura.
+
+Na ciência moderna, muitas vezes é inviável replicar afirmações sem
+acesso ao software subjacente a essas reivindicações.
+
+Sejamos todos honestos: quando cientistas escrevem código, estética e
+princípios de engenharia de software ficam em segundo plano em relação à execução,
+código de trabalho antes de um prazo.
+
+Então, vamos liberar o feio. E, vamos nos orgulhar disso.
+
+
+II. Definições
+
+1. "Esta Licença" refere-se à versão 0 beta 1 da Comunidade
+    Licença de Pesquisa e Programação Acadêmica (CRAPL).
+
+2. "O Programa" refere-se à mistura de código-fonte, shell scripts,
+    executáveis, objetos, bibliotecas e arquivos de construção fornecidos a Você,
+    ou esses arquivos modificados por Você.
+
+   [Qualquer aparência de design no Programa é mera coincidência e
+    não deve, de forma alguma, ser confundido com evidência de ponderação
+    construção de software.]
+
+3. "Você" refere-se à pessoa ou pessoas corajosas e idiotas o suficiente para usar
+    o programa.
+
+4. "A Documentação" refere-se ao Programa.
+
+5. "O autor" provavelmente se refere ao graduado viciado em cafeína
+    aluno que colocou o Programa para funcionar momentos antes de uma submissão
+    prazo final.
+
+
+III. Termos
+
+1. Ao ler esta frase, você concorda com os termos e
+   condições desta Licença.
+  
+2. Se o Programa mostrar qualquer evidência de ter sido devidamente testado
+   ou verificado, você desconsiderará esta evidência.
+
+3. Você concorda em manter o autor livre de vergonha, embaraço ou
+   ridículo por quaisquer hacks, kludges ou saltos de fé encontrados dentro do
+   Programa.
+
+4. Você reconhece que qualquer solicitação de suporte para o Programa será
+   descartados com extremo preconceito.
+
+5. O Autor reserva todos os direitos sobre o Programa, exceto quaisquer
+   direitos concedidos sob quaisquer licenças adicionais anexadas ao
+   Programa.
+
+
+4. Permissões
+
+1. Você tem permissão para usar o Programa para validar
+   reivindicações científicas.
+
+2. Você tem permissão para usar o Programa para validar afirmações científicas
+   enviado para revisão por pares, sob a condição de que você mantenha
+   modificações no Programa são confidenciais até que essas reivindicações tenham
+   sido publicado.
+ 
+3. Você tem permissão para usar e/ou modificar o Programa para o
+   validação de novas alegações científicas se Você fizer de boa fé
+   tentar notificar o autor de seu trabalho e suas reivindicações antes de
+   submissão para publicação.
+ 
+4. Se você liberar publicamente quaisquer reivindicações ou dados que foram apoiados ou
+   gerado pelo Programa ou uma modificação do mesmo, no todo ou em
+   parte, Você liberará quaisquer entradas fornecidas ao Programa e quaisquer
+   modificações que Você fez no Programa. Esta Licença estará em
+   efeito para o programa modificado.
+
+
+V. Renúncia de Garantia
+
+NÃO HÁ GARANTIA PARA O PROGRAMA, ATÉ O LIMITE PERMITIDO PELA
+LEI APLICÁVEL. EXCETO QUANDO INDICADO DE OUTRA FORMA POR ESCRITO OS DIREITOS AUTORAIS
+TITULARES E/OU OUTRAS PARTES FORNECEM O PROGRAMA "COMO ESTÁ" SEM
+GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO
+LIMITADO ÀS GARANTIAS IMPLÍCITAS DE COMERCIABILIDADE E ADEQUAÇÃO PARA
+UM OBJETIVO ESPECÍFICO. TODO O RISCO QUANTO À QUALIDADE E
+A PERFORMANCE DO PROGRAMA ESTÁ COM VOCÊ. O PROGRAMA DEVE PROVAR
+DEFEITUOSO, VOCÊ ASSUME O CUSTO DE TODOS OS SERVIÇOS, REPAROS OU
+CORREÇÃO.
+
+
+VI. Limitação de responsabilidade
+
+EM NENHUM CASO, A MENOS QUE EXIGIDO PELA LEI APLICÁVEL OU ACORDADO POR ESCRITO
+QUALQUER TITULAR DE DIREITOS AUTORAIS, OU QUALQUER OUTRA PARTE QUE MODIFICA E/OU
+TRANSMITE O PROGRAMA CONFORME PERMITIDO ACIMA, SERÁ RESPONSÁVEL PERANTE VOCÊ POR DANOS,
+INCLUINDO QUAISQUER DANOS GERAIS, ESPECIAIS, INCIDENTAIS OU CONSEQUENCIAIS
+DECORRENTE DO USO OU INCAPACIDADE DE USAR O PROGRAMA (INCLUINDO, MAS
+NÃO SE LIMITANDO À PERDA DE DADOS OU DADOS FORNECIDOS INCORRETOS OU
+PERDAS SUSTENTADAS POR VOCÊ OU TERCEIROS OU FALHA DO PROGRAMA
+PARA OPERAR COM QUAISQUER OUTROS PROGRAMAS), MESMO SE ESSE TITULAR OU OUTRO
+A PARTE FOI AVISADA DA POSSIBILIDADE DE TAIS DANOS.

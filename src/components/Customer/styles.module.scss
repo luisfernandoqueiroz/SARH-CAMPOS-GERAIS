@@ -1,0 +1,34 @@
+.navLink {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    padding: 1rem;
+    width: 59rem;
+    background: var(--gray-100);
+
+    gap: .6rem;
+    transition: background 300ms;
+
+    span {
+        width: 10rem;
+        text-align: left;
+        font-weight: 500;
+        color: black;
+    }
+
+    span:first-child {
+        width: 1rem;
+    }
+
+    span:nth-child(2) {
+        width: 20rem;
+    }
+}
+
+.navLink:hover {
+    background: var(--orange-100);
+}
+
+
+

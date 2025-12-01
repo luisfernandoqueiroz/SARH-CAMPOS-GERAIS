@@ -1,0 +1,103 @@
+.principalContent {
+  border: 5px solid var(--green-300);
+  border-radius: 10px;
+  padding: 1rem;
+  width: 90%;
+  margin-top: 6rem;
+
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;  
+  }
+}
+
+.dataFieldset {
+  border: 1px solid var(--green-300);
+  border-radius: 10px;
+  background-color: white;
+
+  legend {
+    color: var(--gray-100);
+    background-color: var(--green-300);
+    width: 100%;
+    border-radius: 10px;
+    padding: .5rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+  }
+}
+
+.dataForm {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  gap: .875rem;
+
+  div {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+
+    label {
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+      width: 100%;
+
+      span {
+        text-align: right;
+        text-wrap: nowrap;
+      }
+      
+      input {
+        flex-grow: 1;
+        padding: .3rem;
+        border-radius: 5px;
+        border: 1px solid black;
+        font-size: 1rem;
+      }
+
+      ::placeholder {
+        color: black;
+        font-weight: 500;
+      }
+    }
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: .5rem;
+  padding: 1rem;
+
+  button {
+    width: 8rem;
+    height: 2.4rem;
+    align-self: flex-end;
+
+    color: var(--gray-100);
+    font-weight: 500;
+
+    border: none;
+    border-radius: 8px;
+
+    background: var(--green-300);
+    transition: background 300ms;
+  }
+
+  .alterButton {
+    background: var(--orange-300);
+  }
+
+  .alterButton:hover {
+    background: var(--orange-500);
+  }
+
+  button:hover {
+    background: var(--green-500);
+  }
+}

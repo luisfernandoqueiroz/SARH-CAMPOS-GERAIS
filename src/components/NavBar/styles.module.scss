@@ -1,0 +1,35 @@
+.navBar {
+    width: 100%;
+    height: fit-content;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: var(--orange-300);
+
+    ul {
+        display: flex;
+        gap: 4rem;
+
+    }
+
+    li {
+        list-style-type: none;
+        padding: 1rem;
+        transition: background 300ms;
+    }
+
+    li:hover {
+        background: var(--orange-500);
+    }
+
+    a, .navLink {
+        color: white;
+        text-decoration: none;
+        font-weight: 400;
+        font-size: 1.1rem;
+    }
+
+}
+

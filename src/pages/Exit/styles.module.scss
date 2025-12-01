@@ -1,0 +1,101 @@
+/* ============================
+   CONTAINER PRINCIPAL
+============================ */
+.principalContent {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+/* ============================
+   TÍTULOS VERDES
+============================ */
+.greenTitle {
+    color: #29914d;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* ============================
+   FORMULÁRIO CENTRAL
+============================ */
+.formCenter {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 25px;
+    border-radius: 12px;
+    background: #f8f8f8;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+.fieldsetGreen {
+    border: 2px solid #29914d;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.formCenter label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 12px;
+    font-weight: bold;
+}
+
+.formCenter input,
+.formCenter textarea {
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    margin-top: 4px;
+}
+
+/* BOTÃO VERDE */
+.btnGreen {
+    background: #29914d;
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.btnGreen:hover {
+    background: #1f6f3a;
+}
+
+/* ============================
+   TABELA DE LISTAGEM
+============================ */
+.listContainer {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.tableFaturas {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.tableFaturas thead {
+    background: #29914d;
+    color: white;
+}
+
+.tableFaturas th,
+.tableFaturas td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.tableFaturas tr:nth-child(even) {
+    background: #f4f4f4;
+}

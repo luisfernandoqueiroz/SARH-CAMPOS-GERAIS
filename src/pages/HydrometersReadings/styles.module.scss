@@ -1,0 +1,83 @@
+.mainContainer {
+  border: 5px solid var(--green-300);
+  border-radius: 10px;
+  padding: 1rem;
+  width: 80%;
+  margin-top: 6rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1rem
+}
+
+.contentWrapper {
+  border: 1px solid var(--green-300);
+  border-radius: 10px;
+  background-color: white;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  gap: 2rem;
+
+  img {
+    width: 6rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+
+    button {
+    padding: 0.75rem 1.5rem;
+    align-self: flex-end;
+
+    color: var(--gray-100);
+    font-weight: 500;
+    font-size: 1.5rem;
+
+    border: none;
+    border-radius: 8px;
+
+    background: var(--green-300);
+    transition: background 300ms;
+  }
+
+  button:hover {
+    background: var(--green-500);
+  }
+}
+
+.readingsInformation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8rem;
+
+  div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--green-300);
+
+    span {
+      font-weight: 900;
+      font-size: 1.8rem;
+    }
+
+    p {
+      font-size: 1.1rem;
+      font-weight: 400;
+    }
+  }
+
+  .pendingReadings {
+    color: var(--orange-300);
+  }
+}

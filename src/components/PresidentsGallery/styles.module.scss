@@ -1,0 +1,44 @@
+.photo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 2rem 2rem 4rem 2rem;
+    gap: 2rem;
+    
+    background: rgb(49, 49, 49);
+    border-radius: 8px;
+
+    width: 30rem;
+
+    img {
+        border-radius: 8px;
+    }
+
+    span {
+        color: white;
+        font-weight: 500;
+        font-size: 1.1rem;
+        background: var(--orange-500);
+        padding: 1rem;
+    }
+}
+
+.buttonContent {
+    margin: 1rem;
+    width: 3rem;
+    height: 3rem;
+
+    align-self: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    
+    color: white;
+    box-shadow: 1px 1px 6px black;
+    background: var(--gray-500);
+
+    border: none;
+    border-radius: 999px;
+
+}
